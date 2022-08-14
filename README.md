@@ -1,6 +1,6 @@
 <center>
 
-![introImage](https://raw.githubusercontent.com/Vaccarini-Lorenzo/Vaccarini-Lorenzo/master/material/introImage.jpg)
+![introImage](https://raw.githubusercontent.com/Vaccarini-Lorenzo/Vaccarini-Lorenzo/master/material/IntroImage.png)
 
 </center>
 
