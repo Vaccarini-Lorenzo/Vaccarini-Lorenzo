@@ -1,6 +1,6 @@
 <center>
 
-![introImage](material/introImage.png)
+![introImage](https://raw.githubusercontent.com/Vaccarini-Lorenzo/Vaccarini-Lorenzo/master/material/IntroImage.png)
 
 </center>
 
