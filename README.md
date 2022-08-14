@@ -1,6 +1,6 @@
 <center>
 
-![introImage](introImage.png)
+![introImage](material/introImage.png)
 
 </center>
 
@@ -34,7 +34,7 @@
 ![XCode](https://img.shields.io/badge/XCode-0079ff.svg?style=for-the-badge&logo=xcode&logoColor=white)
 
 ## **Academic Journal**
-ma
+
 ### [Lorenzo's Academic Journal 📕](https://github.com/Vaccarini-Lorenzo/Academic-Journal)
 
 <br>
