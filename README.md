@@ -1,6 +1,9 @@
+<center>
+
+![introImage](introImage.png)
+
 </center>
 
-# **Hello world!** 🌎
 
 ## **About me**
 #### Hi! My name is Lorenzo Vaccarini and I'm a 23 y.o. C. Science & Engineering student at Politecnico di Milano. <br />
@@ -31,7 +34,7 @@
 ![XCode](https://img.shields.io/badge/XCode-0079ff.svg?style=for-the-badge&logo=xcode&logoColor=white)
 
 ## **Academic Journal**
-
+ma
 ### [Lorenzo's Academic Journal 📕](https://github.com/Vaccarini-Lorenzo/Academic-Journal)
 
 <br>
