@@ -31,10 +31,11 @@ Hi! My name is Lorenzo Vaccarini and I'm a 23 y.o. C. Science & Engineering stud
 
 ![VHDL](https://img.shields.io/badge/VHDL-8838ff?logo=V&logoColor=white&style=for-the-badge)
 
-### Markups Languages
+### Markup Languages
 
 ![Latex](https://img.shields.io/badge/Latex-0f6d6e?logo=Latex&logoColor=white&style=for-the-badge)
 ![Markdown](https://img.shields.io/badge/MarkDown-white?logo=MarkDown&logoColor=black&style=for-the-badge)
+![HTML](https://img.shields.io/badge/HTML-E34F26?logo=HTML5&logoColor=white&style=for-the-badge)
 
 ### Version Control
 
@@ -68,7 +69,6 @@ Hi! My name is Lorenzo Vaccarini and I'm a 23 y.o. C. Science & Engineering stud
 ![C#](https://img.shields.io/badge/C%23-darkgreen?logo=C%20Sharp&logoColor=white&style=for-the-badge)
 ![Core Graphics](https://img.shields.io/badge/Core%20Graphics-black?logo=Apple&logoColor=white&style=for-the-badge)
 ![IOKit](https://img.shields.io/badge/IOKit-black?logo=Apple&logoColor=white&style=for-the-badge)
-
 
 # **Academic Journal**
 
