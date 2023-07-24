@@ -15,7 +15,7 @@
 
 ### Scripting Languages
 
-![Shell](https://img.shields.io/badge/Shell-gray?logo=GNU%20Bash&logoColor=white&style=for-the-badge)
+![Bash](https://img.shields.io/badge/Bash-gray?logo=GNU%20Bash&logoColor=white&style=for-the-badge)
 ![Python](https://img.shields.io/badge/python-3776AB?logo=python&logoColor=ffdd65&style=for-the-badge&logoWidth=)
 
 ### Hardware Description Languages
