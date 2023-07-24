@@ -38,6 +38,10 @@
 ![Flutter](https://img.shields.io/badge/Flutter-02569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
 ![Github Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?style=for-the-badge&logo=github%20actions&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED.svg?style=for-the-badge&logo=obsidian&logoColor=white)
+![NextJs](https://img.shields.io/badge/NextJS-000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=Amazon%20AWS&logoColor=white)
+![Firebase RealTime DB](https://img.shields.io/badge/Firebase%20RealTime%20DB-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
+
 
 
 ### My Academic Journal
